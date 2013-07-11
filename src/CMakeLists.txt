@@ -1,3 +1,2 @@
 
-ADD_SUBDIRECTORY( subdir )
 MACRO_ADD_SOURCES( main.cpp )
