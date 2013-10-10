@@ -1,2 +1,2 @@
 
-MACRO_ADD_SOURCES( main.cpp )
+MACRO_ADD_SOURCES( flags.cpp )
